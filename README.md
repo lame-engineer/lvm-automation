@@ -130,7 +130,10 @@ Example JSON output:
 * Export results in **JSON**, **CSV**, and **HTML** formats.
 * Include both raw scan data and human-readable summaries.
 
-#### **5. Optional Actions** *(Advanced)*
+---
+# yet to implement phase_C
+
+#### **Actions** 
 
 * Securely wipe a disk or partition.
 * Resize partitions or logical volumes.
