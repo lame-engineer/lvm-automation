@@ -1,4 +1,4 @@
-```markdown
+
 # Phase A — Disk & Filesystem Scanner
 
 This repository contains a small **system inspection tool** written in **C** (for speed and minimal dependencies) and a **Python wrapper** (for ease of integration and automation).  
@@ -26,7 +26,7 @@ It scans mounted devices and outputs detailed disk information in **JSON** forma
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - **For C program**:
   - GCC (GNU Compiler Collection)
@@ -38,9 +38,9 @@ It scans mounted devices and outputs detailed disk information in **JSON** forma
 
 ---
 
-## 🚀 Usage
+## Usage
 
-### 1️⃣ Run with Python (Recommended)
+### Run with Python (Recommended)
 ```bash
 python3 run_phase_a.py
 ````
