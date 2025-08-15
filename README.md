@@ -26,19 +26,6 @@ It scans mounted devices and outputs detailed disk information in **JSON** forma
 
 ---
 
-## Repository Structure
-
-```
-
-.
-├── phase\_a.c         # Core C program for scanning
-├── run\_phase\_a.py    # Python wrapper to compile & run the C program
-├── README.md         # This file
-
-````
-
----
-
 ## ⚙️ Requirements
 
 - **For C program**:
