@@ -137,5 +137,3 @@ Example JSON output:
 * Trigger an automated backup before risky operations.
 
 ---
-
-If you want, I can also create the **Phase B C code scaffolding** so it aligns with the style of Phase A and is ready for expansion.
